@@ -14,6 +14,8 @@ or
 
 ### Demo: CIFAR10 Dataset
 
+Left: image colorized from grayscale, Right: original image
+
 ![sample output](output.png)
 
 ## Licensing 
